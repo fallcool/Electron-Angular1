@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": false,         
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "declaration": true,
+        "sourceMap": true,
+        "watch":true,
+        "rootDir":"app"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
